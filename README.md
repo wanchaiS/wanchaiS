@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter  
+I’m a software engineer — and a windsurfer who loves solving problems by building things that actually work.
 
-<!--
-**wanchaiS/wanchaiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently exploring agentic AI systems  
+- 🌱 I believe great engineers aren’t tied to a single language, tools change, fundamentals stay.  
+  These days I work mostly with JavaScript, TypeScript, C#, and Python. 
+- ☁️ AWS Certified Solutions Architect  
+- 🎓 I love system design and building products that make a real impact on people’s workflows and experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wanchaiS&show_icons=true&theme=radical&locale=en&layout=compact" alt="wanchaiS" />
+
+---
+
+## 🌐 Connect with me
+<a href="https://www.linkedin.com/in/peter-wanchai-635002153/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
