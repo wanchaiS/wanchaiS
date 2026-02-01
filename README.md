@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Peter  
 I’m a software engineer — and a windsurfer who loves solving problems by building things that actually work.
 
-- 🔭 Currently exploring agentic AI systems  
+- 🔭 Currently exploring LLM powered applications
 - 🌱 I believe great engineers aren’t tied to a single language, tools change, fundamentals stay.  
   These days I work mostly with JavaScript, TypeScript, C#, and Python. 
 - ☁️ AWS Certified Solutions Architect  
